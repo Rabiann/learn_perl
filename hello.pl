@@ -3,6 +3,6 @@
 use strict;
 use warnings;
 
-my $name = "pasha";
+my $name = "rabi";
 
 print "hi $name\n";
